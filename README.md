@@ -1,3 +1,4 @@
 # google-homepage
 
-"HELLLLO"
+THIS IS THE ODIN PROJECT
+
